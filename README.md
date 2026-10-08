@@ -10,4 +10,3 @@
 [categories.html](https://github.com/user-attachments/files/33205209/categories.html)
 [book a trip.html](https://github.com/user-attachments/files/33205208/book.a.trip.html)
 [about us.html](https://github.com/user-attachments/files/33205207/about.us.html)
-[Untitled-1.html](https://github.com/user-attachments/files/33205206/Untitled-1.html)
